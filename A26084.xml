@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Association, agreement, and protestation of the covnties of Cornwall, and Devon January 5, 1643.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26084</idno>
+            <idno type="STC">Wing A4053</idno>
+            <idno type="STC">ESTC R38547</idno>
+            <idno type="EEBO-CITATION">17757821</idno>
+            <idno type="OCLC">ocm 17757821</idno>
+            <idno type="VID">106583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Association, agreement, and protestation of the covnties of Cornwall, and Devon January 5, 1643.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, and John Bili ...,</publisher>
+                  <pubPlace>Bristoll :</pubPlace>
+                  <date>MDCXLIII [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An oath of allegiance to the King "taken by all men within two counties, above the age of sixteen yeers ..."--P. 1.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Cornwall (England : County) --  History.</term>
+               <term>Devon (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106583:1" rendition="simple:additions"/>
+            <p>THE ASSOCIATION, AGREEMENT, AND PROTESTATION OF THE <hi>COVNTIES OF</hi> CORNWALL, AND DEVON.</p>
+            <p>January 5. 1643.</p>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Irish harp</figDesc>
+            </figure>
+            <p>BRISTOLL, Printed by ROBERT BARKER, and JOHN BILI, Printers to the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty: MDC.XLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106583:2"/>
+            <pb n="1" facs="tcp:106583:2"/>
+            <head>The Articles of the Aſſociations, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1 <seg rend="decorInit">T</seg>Hat a Proteſtation be taken by all men within the two Counties, above the age of Sixteen yeers, and Subſcription thereunto, according to the form agreed on, before the Miniſter of the Pariſh, or ſome other perſon as ſhall be appoint<g ref="char:EOLhyphen"/>ed in each Pariſh by the Juſtices of Peace of each County, or two of them. The ſame being firſt taken by all the commiſſioners at this meeting; and all Per<g ref="char:EOLhyphen"/>ſons refuſing be forthwith certified to the Juſtices of the Peace; and be ſecured as Enemies to the Peace of the King<g ref="char:EOLhyphen"/>dom. And this to be done with all ſpeed, and account given before the twentieth of <hi>February.</hi>
+            </p>
+            <p n="2">2 That his Highneſſe be moved, that there be two Com<g ref="char:EOLhyphen"/>miſſioners of each County to take the Muſters of the Army, and that the Treaſurer give an account monethly to the Com<g ref="char:EOLhyphen"/>mittees of each County, of his disburſments.</p>
+            <p n="3">3 That there be ſtrict continuall ſearch for all Souldiers, that have at any time been in Pay ſince theſe Wars, in every Pariſh; and that they be forthwith ſent to recruit the Army: and ſuch as ſhall refuſe, that they be ſent to the Provoſt-Marſhall-Generall. And that no Souldier depart from his Colours without licence, according to His Majeſties Procla<g ref="char:EOLhyphen"/>mation and Articles; and Offenders to be proceeded with according to their merits; and that as many more be raiſed in each County, as may recruit the Companies; and that every Foot Company conſiſt of one Hundred; and every Troop of Horſe and Dragooners, of threeſcore. And if any Foot Company have leſſe then fifty, and of Horſe and Dra<g ref="char:EOLhyphen"/>gooners leſſe then thirty; then if ſuch Company be not re<g ref="char:EOLhyphen"/>cruited to theſe laſt numbers, or more, within a moneth after
+<pb n="2" facs="tcp:106583:3"/>the Muſter, the Officers pay to be detained: and after that, the Company paid and reduced; and the ſame rule to be held for Proners, as for Foot Companies. And herein his <hi>High<g ref="char:EOLhyphen"/>neſſe</hi> directions are to be deſired, and that the Committees may be informed of the preſent number of the Army; and what the preſent weekly Charge of it cometh to.</p>
+            <p n="4">4 That there be account taken of the Captains and other Officers, that have had any charge of Arms, how the ſame have been diſpoſed; and that by warrant from the Commiſ<g ref="char:EOLhyphen"/>ſioners, there be a generall ſearch for Arms through both Counties. And that the Conſtables of each Pariſh repair to every houſe within the ſame, and take view of them; and give in their account to the high-Conſtables: who are to bring it to the Commiſſioners. That the weekly payments in both Counties, be raiſed with all diligence, and Arrears collected and accounted for, untill <hi>Plymouth</hi> be reduced. And that Committees be appointed in each County reſpectively, to take the accounts of all Receivers of the weekly payments: which are to be the ſame that take the Treaſurers accounts.</p>
+            <p n="5">5 That the Commiſſioners of <hi>Devon,</hi> as hath been done in <hi>Cornwall,</hi> proceed againſt ſuch as have failed to attend the <hi>Sheriffe</hi> upon warrant for the <hi>Poſſe Comi atûs:</hi> and that the Fines may be imployed for the preſent ſupply of His Maje<g ref="char:EOLhyphen"/>ſties Army, with Arms, and Ammunition for a preſent Ma<g ref="char:EOLhyphen"/>gazine of Arms, Ammunition, and Tooles, in each County: wherein His Majeſties Pleaſure is to be deſired.</p>
+            <p n="6">6 That there be an humble Remonſtrance of the eſtate of both Counties to His Majeſty: and of the neceſſity, that all Moneys coming of Delinquents Eſtates, Fines, and Compoſi<g ref="char:EOLhyphen"/>tions, may be imployed to the uſe of the Army and Garri<g ref="char:EOLhyphen"/>ſons, and payment of the Debts contracted for His Majeſties Service, and by His former Proclamations to be ſecured: and that His Majeſties Commiſſions may authorize that diſ<g ref="char:EOLhyphen"/>poſition, and that the Delinquents Eſtates in both Counties, be ſeized and diſpoſed of, by the Commiſſioners of each
+<pb n="3" facs="tcp:106583:3"/>County, to the ſame purpoſe reſpectively; and to Comman<g ref="char:EOLhyphen"/>ders of the Army intermeddle with it, without their Autho<g ref="char:EOLhyphen"/>rity.</p>
+            <p n="7">7 That no Sequeſtration be made after Compoſition made and paid, but by Order at the Generall Seſſions of the Peace, or other generall meeting of the Commiſſioners by common Conſent there: unleſſe for new offences.</p>
+            <p n="8">8 That the Army be governed according to His Majeſties Articles, and that all Perſons of what condition ſoever, be held infamous and Enemies to the publique Peace, that ſhall raiſe, or cauſe any Mutinies, or diſobedience thereunto: and ſuffer all ſeverity, according to His Majeſties Articles.</p>
+            <p n="9">9 That all ſuch Perſons as have been or ſhall be ſlain in the preſent War, or die in the ſervice, by whoſe life any other Perſon held any Lands or Rents; the party to whom the Right to grant ſuch Land or Rent belongeth unto, ſhall be bound to grant an Eſtate for a life, inſtead of the Perſon ſo killed or dying, under the Rents and Covenants as was for<g ref="char:EOLhyphen"/>merly held, unto ſuch Perſon and Perſons, as was intitled to hold the ſame, and at his nomination. And the refuſers to loſe the double value of the Eſtate; one halfe to His Majeſty, the other to the Party: and to be impriſoned till payment.</p>
+            <p n="10">10 That if either or both Counties of <hi>Somerſet</hi> and <hi>Dorſet,</hi> will enter into this Union and Aſſociation, they ſhall be re<g ref="char:EOLhyphen"/>ceived with all cheerfulneſſe.</p>
+            <p n="11">11 That if any Miniſter ſhall refuſe, or wilfully neglect the ſolemn Celebration of the <hi>Faſt</hi> appointed by His Majeſty on the ſecond <hi>Friday</hi> of the Moneth; or ſhall not read the <hi>Ser<g ref="char:EOLhyphen"/>vice</hi> and <hi>Prayers</hi> appointed for that <hi>Faſt;</hi> and being called be<g ref="char:EOLhyphen"/>fore a Juſtice of Peace, ſhall not promiſe and proteſt his fu<g ref="char:EOLhyphen"/>ture conformity, he be forth with ſecured, and his Eſtate ſe<g ref="char:EOLhyphen"/>queſtred. And the like courſe to be taken with ſuch Miniſters, as abſent themſelves that day: unleſſe upon ſickneſſe or other cauſe, allowed by two Commiſſioners, or Juſtices of Peace. And the like order to be taken with ſuch as ſhall not read ſuch
+<pb n="4" facs="tcp:106583:4"/>
+               <hi>Books</hi> as ſhall be appointed to be read by His Majeſty. And the Conſtables and Church-wardens, are to certifie their de<g ref="char:EOLhyphen"/>faults to the next Juſtices.</p>
+            <p n="12">12 That His Majeſty be moved for a Confirmation of the preſent Union and Articles.</p>
+            <p n="13">13 That there be provided a Thouſand Barrells of Pow<g ref="char:EOLhyphen"/>der, and ten Thouſand Fire-Arms at the charge of both Counties, whereof <hi>Cornwall</hi> to be a Fourth, and <hi>Devon</hi> three parts, according to the proportion of the grand Subſidie.</p>
+            <p n="14">14 That the Army ſhall be recruited, and encreaſed to the number of Eighteen Thouſand Horſe and Foot: to be raiſed proportionably in both Counties.</p>
+            <p n="15">15 That His Highneſſe be entreated that a Commiſſion be granted to authorize an impreſſe of Souldiers, for the preſent Service.</p>
+            <p n="16">16 That on the firſt Wedneſday of the next Moneth, and every Moneth following, the Committee now appointed for <hi>Cornwall,</hi> which are Sir <hi>Samuell Coſewarth, Richard Prideaux, Walter Langdon, Nevill Bligh,</hi> and <hi>Renatus Bellat,</hi> Eſquires; and of <hi>Devon, Arthus Baſſet</hi> Eſquire, <hi>William Tothill, Iohn Mere, Gilbert Pard,</hi> and <hi>Thomas Mediford,</hi> Eſquires, do meet firſt at <hi>Exeter,</hi> and continually afterwards where the <hi>Corniſh</hi> Committee appoint to take the monethly Accompts of the Receivers of the Weekly Rates, and Treaſurer of the Army, and what elſe concerns theſe Articles. And in caſe of impe<g ref="char:EOLhyphen"/>diment, the Commiſſioners of <hi>Oier</hi> and <hi>Terminer</hi> in each County reſpectively, name other Committees, or ſupply the place of any one himſelf.</p>
+            <p n="17">17 That there be Copies of this Proteſtation delivered out by the Sheriffe, at the Seſſions of each County, to the Conſtables of each Hundred reſpectively, and that the ſaid Hundred Conſtables, do immediatly deliver out ſeverall Copies to all the Petty-Conſtables, which are by the Mi<g ref="char:EOLhyphen"/>niſter of every Pariſh, Church, and Chappell, to be publiſhed the next Sunday following after the receipt: and then every
+<pb n="5" facs="tcp:106583:4"/>man preſent to take the ſame, and 2ubſcribe his name thereunto, before the ſaid Miniſter, Conſtable, or Church-wardens, or two of them: and ſuch of his Pariſh as ſhall not be preſent at the time, to take the ſame within ten daies following. And the Miniſters and Conſtables are to give in the Liſt or Certificate of their names that take it, and of them that are abſent or refuſe, to the Conſtables of the Hundred: who are to deliver the ſame to the Commiſſioners, at their next generall meeting after the Twentieth of <hi>February</hi> next.</p>
+            <p>Whereas a few Malevolent and Ambitious perſons, in the name of two Houſes of Parliament, have by Treaſonable pra<g ref="char:EOLhyphen"/>ctiſes imbroyled this Kingdom in a Civill Warre, purſued His Majeſties Perſon, murthered His good Subjects: ſome, barba<g ref="char:EOLhyphen"/>rouſly by the common Hangman, againſt Law and Juſtice: others, by Hoſtile aſſaults: brought a generall devaſlation upon the whole Kingdom; taking away all liberty from the Members of both Houſes; by awing, terrifying, and aſſaulting them with Tumults and Armies; uſurping the Royall power, Counterfeit<g ref="char:EOLhyphen"/>ing a Great Seale: and to ſhe their horrid intentions againſt the King, Kingdom, and Government, finding their Acts nor likely to protect them from the puniſhment due to their merits, have unnaturally invited and brought in the <hi>Scots</hi> to invade this King<g ref="char:EOLhyphen"/>dom: and in theſe diſtractions, to make a totall conqueſt of this Nation. For reſiſtance whereof, and preſerving the Common-Peace, the inhabitants of <hi>Cornwall</hi> and <hi>Devon</hi> have united them<g ref="char:EOLhyphen"/>ſelves; and for continuance of which Union, this enſuing Pro<g ref="char:EOLhyphen"/>teſtation is to be taken.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Proteſtation.</head>
+                        <p>I A. B. <hi>Do in the preſence of Almighty God, promiſe, vow, and proteſt, with my utmoſt power to maintain and defend the true. Re<g ref="char:EOLhyphen"/>formed Proteſtant Religion, eſtabliſhed by Law in this Kingdom, a<g ref="char:EOLhyphen"/>gainſt all Popery, Popiſh, and other innovations of Sectaries and Schiſ<g ref="char:EOLhyphen"/>maticks; as alſo His Majeſties perſon and Rights, againſt all forces whatſoever; and in like manner, the Laws, Liberties, and Privi<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>dges of Parliament, and of this Kingdom. And I ſhall, to the utmoſt
+<pb n="6" facs="tcp:106583:5"/>of my power, preſerve and defend the Peace of the two Counties of</hi> Cornall <hi>and</hi> Devon; <hi>and all Perſons that ſhall unite themſelves by this our Proteſtation, in the due performance thereof. And to my power aſsiſt His Majeſties Armies for reducing the Town of</hi> Plymouth; <hi>and reſiſtance of all Forces of</hi> Scots, <hi>invaders, and others, levyed under pretence of any authority of two Houſes of Parliament, or otherwiſe, without His Majeſties perſonall conſent.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In regard of the reſtleſſe endeavours of the Contrivers of the preſent diſtractions, who after the unnaturall diviſions they have wrought, and move miſery by calling in the <hi>Scots,</hi> to make the deſolation of this Nation it recoverable: and it being the duty of all good Subjects and lovers of their country, in ſuch times to unite themſelves, that they may the better reſiſt the diſturbers of the publique Peace.</p>
+            <p>We of the Counties of <hi>Cornwall</hi> and <hi>Devon,</hi> (by rcaſon of ſcituation and allyance of families, neerly concerned in each o<g ref="char:EOLhyphen"/>thers condition) for the preſervation of the Peace already ob<g ref="char:EOLhyphen"/>tained among us and for a further increaſe and ſecurity of it; do aſſociate andunite our ſelves (according to our duty to God, His Majeſty, and our Countrey) for the common defence of theſe Counties, againſt all forees that oppoſe His Majeſties Army, or Commiſſioners, authorized under His Great Seal of <hi>England:</hi> and againſt all Towns, Caſtles, and Forts, that ſhall reſiſt His Maje<g ref="char:EOLhyphen"/>ſties ſaid Army or Commiſſioners.</p>
+            <p>And we do promiſe in the preſence of Almighty God, that we will not break this union, nor deſiſt from following all juſt, neceſ<g ref="char:EOLhyphen"/>ſary, and Honourable wayes, to the urmoſt of our power, for per<g ref="char:EOLhyphen"/>fecting and ſecuring the ſaid Peace, and the reducing all Places, Perſons, Towns, Caſtles, and Forts, within the ſaid Counties, to His Majeſties obedience, and particularly the Town of <hi>Plymouth.</hi>
+            </p>
+            <p>And in caſe either of the ſaid Counties be invaded by Sea or Land, we do bind our ſelves, to mutuall defence of each other, againſt all perſons raiſed without His Majeſties perſonall con<g ref="char:EOLhyphen"/>ſent: and to reſiſt all ſuch power, with all the ſtrength each County can raiſe for the others defence.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
